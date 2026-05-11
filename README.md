@@ -1,4 +1,7 @@
 ## Hi there 👋
+Welcome to my Github profile!
+My projects:
+AI Fitness Tracker: https://github.com/Ehc1000/Fitness-Tracker-Website
 
 <!--
 **Ehc1000/Ehc1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
