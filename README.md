@@ -1,5 +1,7 @@
 ## Hi there 👋
-Welcome to my Github profile! Here are my projects
+Welcome to my Github profile! Here are my projects:
+
+Othello AI Agents: https://github.com/Ehc1000/Othello_AI_Agents
 
 AI Fitness Tracker: https://github.com/Ehc1000/Fitness-Tracker-Website
 
