@@ -1,7 +1,19 @@
 ## Hi there 👋
 Welcome to my Github profile!
+
 My projects:
+
 AI Fitness Tracker: https://github.com/Ehc1000/Fitness-Tracker-Website
+
+Race Walking Data Visualizer: https://github.com/Ehc1000/Race-Walking-Data-Visualization
+
+Movie Review & Discovery Application: https://github.com/Ehc1000/MarvelousMoviesWebsite
+
+NeuralSort: https://github.com/Ehc1000/NeuralSort
+
+Q-Table Reinforcment Learning Agent: https://github.com/Ehc1000/Q-Table-Reinforcement-Learning-Agent
+
+Banking Simulator: https://github.com/Ehc1000/Banking-Simulator
 
 <!--
 **Ehc1000/Ehc1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
