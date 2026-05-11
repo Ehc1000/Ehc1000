@@ -11,7 +11,7 @@ Movie Review & Discovery Application: https://github.com/Ehc1000/MarvelousMovies
 
 NeuralSort: https://github.com/Ehc1000/NeuralSort
 
-Q-Table Reinforcment Learning Agent: https://github.com/Ehc1000/Q-Table-Reinforcement-Learning-Agent
+Q-Table Reinforcement Learning Agent: https://github.com/Ehc1000/Q-Table-Reinforcement-Learning-Agent
 
 Banking Simulator: https://github.com/Ehc1000/Banking-Simulator
 
